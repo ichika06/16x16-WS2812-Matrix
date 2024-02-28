@@ -14,8 +14,8 @@ table{
 }
 td{
     border: 1px solid black;
+    border-radius: 20px;
     font-size: 12px;
-    width: 50px;
-    height: 20px;
-    border-radius: 5px;
+    width: 30px;
+    height: 30px;
 }
