@@ -9,9 +9,8 @@
     height: 100vh;
 }
 table{
-    width: 80%;
+    width: 50%;
     border-spacing: 5px;
-    cursor: pointer;
 }
 td{
     border: 1px solid black;
