@@ -18,4 +18,9 @@ td{
     font-size: 12px;
     width: 50px;
     height: 50px;
+    cursor: pointer;
+    transition: 100ms;
+}
+td:hover{
+    scale: 1.1;
 }
