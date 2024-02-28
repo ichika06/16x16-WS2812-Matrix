@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.table-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+table{
+    width: 80%;
+    border-spacing: 5px;
+}
+td{
+    border: 1px solid black;
+    font-size: 12px;
+    width: 50px;
+    height: 20px;
+    border-radius: 5px;
+}
